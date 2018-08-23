@@ -11,3 +11,6 @@ Engineer Number......Material Number.....Description
 41792-0005..................26-60-5050................5-position Right Angle Header
 
 41792-0006..................26-60-5060................6-position Right Angle Header
+
+
+The NoPins versions of the footprints do not have a courtyard area or drawing of the pins and locking tab. This is for installations where the pins and locking tabls will overhang the board edge.
